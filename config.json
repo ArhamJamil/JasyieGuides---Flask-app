@@ -4,8 +4,8 @@
     "local_server":"True",
     "local_uri": "mysql://root:@localhost/rockyarham",
     "production_uri": "mysql://root:@localhost/rockyarham",
-    "gmail_user": "MUHAMMADARHAMJAMILSABIH@gmail.com",
-    "gmail_password": "MUHAMMADAJ1290"
+    "gmail_user": "youremailhere",
+    "gmail_password": "yourpassword"
   }
 
 
